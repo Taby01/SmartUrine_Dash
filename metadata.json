@@ -1,0 +1,5 @@
+{
+  "name": "SmartUrine Dashboard",
+  "description": "A user-friendly dashboard to display urine test results and health insights for caregivers, doctors, and patients. It provides at-a-glance health indicators, trend charts, and detailed result tables using simulated data.",
+  "requestFramePermissions": []
+}
